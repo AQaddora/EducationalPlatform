@@ -15,7 +15,7 @@
 - [Promo Video](#promo-video)
 - [General Preview](#general-preview)
 - [Contact Information](#contact-information)
-- [LICENCE](LICENCE.md)
+- [LICENCE](https://github.com/AQaddora/EducationalPlatform/blob/master/LICENSE.md)
 - [Teacher Dashboard](http://janamath.com/)
 - [Student App](https://drive.google.com/open?id=11skea61cdXOnfASeSv64AccVHgI87i0k)
 
@@ -34,7 +34,7 @@ We also give students a fun way to learn from their teachers, the game applicati
 What do we expect to provide in the future? We still lack resources, for example, our platform in the meantime can’t handle big amount of teachers and courses on it, hence videos need to be uploaded somewhere. Also, our databases can’t handle a huge amount of students with their information stored there. What we intend to do is to start small. Like any start-up, after some time we will expand our hosts to cope up with a larger amount of students and teachers with more courses. Platform-wise we will track bugs daily, and add some features depending on the feedback from users. Eventually, we will add more mazes to make the application less boring, also we will add the ability to change the maze environment by the teacher to be suitable with their courses and their targeted student’s ages.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)]()
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](LICENCE.md)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](https://github.com/AQaddora/EducationalPlatform/blob/master/LICENSE.md)
 
 
 ## Permissions
