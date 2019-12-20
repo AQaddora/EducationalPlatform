@@ -63,18 +63,18 @@ What do we expect to provide in the future? We still lack resources, for example
 
 ![ScreenShot](sceenshots/14.PNG)
 
-#permissions
+## Permissions
 
 1. Internet
 2. Network state
 
 
-#promo-video 
+## Promo video 
 (Click for full video)
 [![Watch the video](https://raw.githubusercontent.com/AQaddora/EducationalPlatform/master/sceenshots/2.PNG)](https://youtu.be/N_pD-bsX4Wc)
 
 
-#contact-information
+## Contact Information
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/AQaddora). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/AQaddora/EducationalPlatform/issues) to report them.
 you can also email us at:
 AQaddora@ieee.org OR MYounis@ieee.org
