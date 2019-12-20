@@ -9,7 +9,7 @@
 
 </p>
 
-#Table-of-contents
+## Table of contents
 - [About](#about-the-educational-platform)
 - [General Preview](#general-preview)
 - [Permissions](#permissions)
@@ -19,7 +19,7 @@
 - [Teacher Dashboard](http://janamath.com/)
 - [Student App](https://drive.google.com/open?id=11skea61cdXOnfASeSv64AccVHgI87i0k)
 
-#about-the-educational-platform
+## About The Educational Platform
 
 Teachers from all around the globe can sign themselves up on our platform, and they encourage their students to download the game app so they can benefit from the platform.
 
@@ -34,7 +34,8 @@ We also give students a fun way to learn from their teachers, the game applicati
 What do we expect to provide in the future? We still lack resources, for example, our platform in the meantime can’t handle big amount of teachers and courses on it, hence videos need to be uploaded somewhere. Also, our databases can’t handle a huge amount of students with their information stored there. What we intend to do is to start small. Like any start-up, after some time we will expand our hosts to cope up with a larger amount of students and teachers with more courses. Platform-wise we will track bugs daily, and add some features depending on the feedback from users. Eventually, we will add more mazes to make the application less boring, also we will add the ability to change the maze environment by the teacher to be suitable with their courses and their targeted student’s ages.
 
 
-#general-preview
+## General Preview
+
 ![ScreenShot](sceenshots/1.PNG)
 
 ![ScreenShot](sceenshots/2.PNG)
@@ -77,7 +78,7 @@ What do we expect to provide in the future? We still lack resources, for example
 ## Contact Information
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/AQaddora). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/AQaddora/EducationalPlatform/issues) to report them.
 you can also email us at:
-AQaddora@ieee.org OR MYounis@ieee.org
+**AQaddora@ieee.org** OR **MYounis@ieee.org**
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/) 
