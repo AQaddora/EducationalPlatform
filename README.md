@@ -33,3 +33,37 @@ Platform-wise we will track bugs daily, and add some features depending on the
 feedback from users. Eventually, we will add more mazes to make the application less boring,
 also we will add the ability to change the maze environment by the teacher to be suitable with
 their courses and their targeted student’s ages.
+
+Watch a video here: https://youtu.be/N_pD-bsX4Wc
+
+Here is an apk where you can play: https://drive.google.com/file/d/11skea61cdXOnfASeSv64AccVHgI87i0k/view?usp=sharing
+
+Here are some screenshots:
+
+![ScreenShot](sceenshots/1.PNG)
+
+![ScreenShot](sceenshots/2.PNG)
+
+![ScreenShot](sceenshots/3.PNG)
+
+![ScreenShot](sceenshots/4.PNG)
+
+![ScreenShot](sceenshots/5.PNG)
+
+![ScreenShot](sceenshots/6.PNG)
+
+![ScreenShot](sceenshots/7.PNG)
+
+![ScreenShot](sceenshots/8.PNG)
+
+![ScreenShot](sceenshots/9.PNG)
+
+![ScreenShot](sceenshots/10.PNG)
+
+![ScreenShot](sceenshots/11.PNG)
+
+![ScreenShot](sceenshots/12.PNG)
+
+![ScreenShot](sceenshots/13.PNG)
+
+![ScreenShot](sceenshots/14.PNG)
