@@ -1,3 +1,4 @@
+# Educational Platform
 **Our platform is dedicated to educational
 organizations like schools. As education doesn’t depend on the age of the student, our platform
 doesn’t too.**
@@ -34,11 +35,12 @@ feedback from users. Eventually, we will add more mazes to make the application 
 also we will add the ability to change the maze environment by the teacher to be suitable with
 their courses and their targeted student’s ages.
 
-Watch a video here: https://youtu.be/N_pD-bsX4Wc
+### [Watch a video here](https://youtu.be/N_pD-bsX4Wc):
 
-Here is an apk where you can play: https://drive.google.com/file/d/11skea61cdXOnfASeSv64AccVHgI87i0k/view?usp=sharing
+### Here is an apk where you can play: [Download](https://drive.google.com/file/d/11skea61cdXOnfASeSv64AccVHgI87i0k/view?usp=sharing)
 
-Here are some screenshots:
+
+### Or see some screenshots:
 
 ![ScreenShot](sceenshots/1.PNG)
 
