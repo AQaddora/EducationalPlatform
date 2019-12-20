@@ -11,9 +11,9 @@
 
 ## Table of contents
 - [About](#about-the-educational-platform)
-- [General Preview](#general-preview)
 - [Permissions](#permissions)
 - [Promo Video](#promo-video)
+- [General Preview](#general-preview)
 - [Contact Information](#contact-information)
 - [LICENCE](LICENCE.md)
 - [Teacher Dashboard](http://janamath.com/)
@@ -32,6 +32,34 @@ What do we provide in our platform? In the meantime, we provide teachers a web-b
 We also give students a fun way to learn from their teachers, the game application starts with their information and the course they have enrolled in. Then they go directly to the game after watching the lesson carefully. They will be lost in a maze and to get out of it they should answer 50% of the course’s questions correctly, otherwise, they will be stuck in the maze.
 
 What do we expect to provide in the future? We still lack resources, for example, our platform in the meantime can’t handle big amount of teachers and courses on it, hence videos need to be uploaded somewhere. Also, our databases can’t handle a huge amount of students with their information stored there. What we intend to do is to start small. Like any start-up, after some time we will expand our hosts to cope up with a larger amount of students and teachers with more courses. Platform-wise we will track bugs daily, and add some features depending on the feedback from users. Eventually, we will add more mazes to make the application less boring, also we will add the ability to change the maze environment by the teacher to be suitable with their courses and their targeted student’s ages.
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)]()
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-125x28.png?v=103)](LICENCE.md)
+
+
+## Permissions
+
+1. Internet
+2. Network state
+
+
+## Promo video 
+(Click for full video)
+[![Watch the video](https://raw.githubusercontent.com/AQaddora/EducationalPlatform/master/sceenshots/2.PNG)](https://youtu.be/N_pD-bsX4Wc)
+
+
+## Contact Information
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/AQaddora). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/AQaddora/EducationalPlatform/issues) to report them.
+you can also email us at: **AQaddora@ieee.org** OR **MYounis@ieee.org**
+
+**Or you can find us here:**
+
+[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/AQaddora96)
+[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/GamerBoxStudios/)
+[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/AQaddora/)
+
+
+
 
 
 ## General Preview
@@ -63,22 +91,3 @@ What do we expect to provide in the future? We still lack resources, for example
 ![ScreenShot](sceenshots/13.PNG)
 
 ![ScreenShot](sceenshots/14.PNG)
-
-## Permissions
-
-1. Internet
-2. Network state
-
-
-## Promo video 
-(Click for full video)
-[![Watch the video](https://raw.githubusercontent.com/AQaddora/EducationalPlatform/master/sceenshots/2.PNG)](https://youtu.be/N_pD-bsX4Wc)
-
-
-## Contact Information
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/AQaddora). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/AQaddora/EducationalPlatform/issues) to report them.
-you can also email us at:
-**AQaddora@ieee.org** OR **MYounis@ieee.org**
-
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/) 
