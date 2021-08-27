@@ -50,12 +50,12 @@ What do we expect to provide in the future? We still lack resources, for example
 
 ## Contact Information
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/AQaddora). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/AQaddora/EducationalPlatform/issues) to report them.
-you can also email us at: **AQaddora@ieee.org** OR **MYounis@ieee.org**
+you can also email us at: **ahmedqaddora@outlook.com**
 
 **Or you can find us here:**
 
 [![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/AQaddora96)
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/GamerBoxStudios/)
+[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/AQaddora96)
 [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/AQaddora/)
 
 
